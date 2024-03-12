@@ -1,0 +1,4 @@
+int x = 0
+while ; < 5
+int main()
+if (i < 5)

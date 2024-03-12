@@ -1,0 +1,4 @@
+C:/Users/doris/CLionProjects/classCompiler/cmake-build-debug/CMakeFiles/classCompiler.dir
+C:/Users/doris/CLionProjects/classCompiler/cmake-build-debug/CMakeFiles/classCompiler2.dir
+C:/Users/doris/CLionProjects/classCompiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/doris/CLionProjects/classCompiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

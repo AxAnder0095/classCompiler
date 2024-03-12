@@ -1,0 +1,10 @@
+# ninja log v5
+1	119	7319770225463009	build.ninja	1fd8d2975c9ec854
+3	432	7319764419027655	CMakeFiles/classCompiler.dir/main.cpp.obj	23d7d42b27afb207
+3	600	7319764017218560	CMakeFiles/classCompiler.dir/LexAnalyzer.cpp.obj	8b5041284c1f63da
+433	532	7319764419978741	classCompiler.exe	37fa251604993c33
+0	405	7319770639258089	CMakeFiles/classCompiler2.dir/synAnalyzerMain.cpp.obj	cae18f988adbc892
+4	501	7319770640218035	CMakeFiles/classCompiler2.dir/SyntaxAnalyzer.cpp.obj	5c16f462505bad35
+501	586	7319770641049678	classCompiler2.exe	39c3e99cccd93c4b
+3	565	7319772184530296	CMakeFiles/classCompiler.dir/LexAnalyzer.cpp.obj	8b5041284c1f63da
+565	661	7319772185481098	classCompiler.exe	37fa251604993c33
